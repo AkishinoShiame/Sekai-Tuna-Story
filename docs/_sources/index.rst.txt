@@ -145,3 +145,7 @@
    :maxdepth: 2
    :caption: Contents:
 
+   Yasuno
+   Sakkuru
+   Irisu
+
