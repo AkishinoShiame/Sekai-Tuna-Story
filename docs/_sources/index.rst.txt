@@ -13,6 +13,16 @@
 
 イラスト：未定
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Yasuno
+   Sakkuru
+   Irisu
+
+
+
 [共通-0] プロローグ
 =====================================
 
@@ -140,12 +150,4 @@
 ちょっと不安な気分で、教室に入る。    
 
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   Yasuno
-   Sakkuru
-   Irisu
 
